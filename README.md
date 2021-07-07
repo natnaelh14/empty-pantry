@@ -1,4 +1,5 @@
 # Group-Project-Name: Empty Pantry
+# Live Link: https://natnaelh14.github.io/empty-pantry/
 
 ![alt text](./screenshot.png)
 ![alt text](./screenshot-02.png)
