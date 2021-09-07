@@ -1,7 +1,8 @@
 
-## Empty Pantry
-![alt text](https://img.shields.io/github/last-commit/natnael14/-portfolio-website)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Empty Pantry
+![alt text](https://img.shields.io/github/last-commit/natnael14/-portfolio-website)<br /><br />
+<img src="https://img.shields.io/github/last-commit/natnaelh14/jboard">
+
 ## Description
 The web application’ primary features include but are not limited to: meal search by category & by ingredient name, a dynamic meal planner with calendar and saved list, massive nutrition information modal and a simply calorie calculator.
 ## Table of Contents
