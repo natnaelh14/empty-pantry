@@ -1,6 +1,6 @@
 html,
 body {
-  background: url(./EmptyPantry\ bg.jpg) no-repeat center center fixed;
+  background: url(./empty-pantry.jpg) no-repeat center center fixed;
   position: absolute;
   background-size: cover;
   height: 100%;
@@ -71,7 +71,7 @@ img {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("./EmptyPantry\ bg.jpg");
+  background: url("./empty-pantry.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   filter: blur(5.5px);
