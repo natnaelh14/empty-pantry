@@ -1,6 +1,7 @@
 
 # Empty Pantry
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br/>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br/><br/>
+<img src="https://img.shields.io/github/last-commit/natnaelh14/empty-pantry">
 ## Live Link
 https://natnaelh14.github.io/empty-pantry/
 ## Description
