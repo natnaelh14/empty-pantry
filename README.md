@@ -5,7 +5,7 @@
 ## Live Link
 https://natnaelh14.github.io/empty-pantry/
 ## Description
-The web application’ primary features include but are not limited to: meal search by category & by ingredient name, a dynamic meal planner with calendar and saved list, massive nutrition information modal and a simply calorie calculator.
+The web application’s primary features include but are not limited to meal search by category & by ingredient name, a dynamic meal planner with calendar and saved list, massive nutrition information modal, and a simple calorie calculator.
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
